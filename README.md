@@ -25,4 +25,18 @@ Task 2️⃣: Recreate the graph as in the picture. Leave a link to the reposito
 
 Task 3️⃣: Rebase branch two to branch one and merge three to one. Show the process in screenshots
 
-Task 4️⃣: Answer the questions in commit questions.
+Task 4️⃣: Answer the questions in commit questions
+
+Task 5️⃣: Create a new branch named “feature” from branch “one” and add at least one commit.
+
+Task 6️⃣: Delete branches “two” and “three” after merging them with the main branch. Make a screenshot of the result.
+
+Task 7️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
+
+Task 8️⃣: Tag the final commit in the “one” branch with the tag “final_version” and submit all branches and tags to the repository.
+
+Task 9️⃣: Document the execution of each task in a README file and attach all screenshots and files.
+
+Task 🔟: Create a pull request to merge the “feature” branch with the “main” branch and add a description of the changes. Take a screenshot of the created pull request.
+
+
