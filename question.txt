@@ -1,3 +1,2 @@
 What is the difference between switch and checkout?
-What does git merge do?
 It's not all questions, look into the past and you'll find all the questions to your answers
