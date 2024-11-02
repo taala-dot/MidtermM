@@ -15,6 +15,7 @@ Make a fork of this repository on your GitHab. Read the tasks carefully and comp
 ❌ I will not accept a links if you send me your GitHub instead of a repository with answers.
 
 ❌ I will not accept links unless you post information about who you are.
+s
 
 Tasks:
 Task 1️⃣: Create new branch Student_name and add 3 commits.
